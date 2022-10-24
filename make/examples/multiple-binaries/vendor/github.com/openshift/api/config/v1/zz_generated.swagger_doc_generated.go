@@ -993,7 +993,7 @@ func (HTPasswdIdentityProvider) SwaggerDoc() map[string]string {
 
 var map_IdentityProvider = map[string]string{
 	"":              "IdentityProvider provides identities for users authenticating using credentials",
-	"name":          "name is used to qualify the identities returned by this provider. - It MUST be unique and not shared by any other identity provider used - It MUST be a valid path segment: name cannot equal \".\" or \"..\" or contain \"/\" or \"%\" or \":\"\n  Ref: https://godoc.org/github.com/openshift/origin/pkg/user/apis/user/validation#ValidateIdentityProviderName",
+	"name":          "name is used to qualify the identities returned by this provider. - It MUST be unique and not shared by any other identity provider used - It MUST be a valid path segment: name cannot equal \".\" or \"..\" or contain \"/\" or \"%\" or \":\"\n  Ref: https://godoc.org/github.com/uccps-samples/origin/pkg/user/apis/user/validation#ValidateIdentityProviderName",
 	"mappingMethod": "mappingMethod determines how identities from this provider are mapped to users Defaults to \"claim\"",
 }
 

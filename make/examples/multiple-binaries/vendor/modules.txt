@@ -3,8 +3,8 @@ github.com/gogo/protobuf/proto
 github.com/gogo/protobuf/sortkeys
 # github.com/google/gofuzz v1.0.0
 github.com/google/gofuzz
-# github.com/openshift/api v3.9.1-0.20191002160657-d92789481b05+incompatible
-github.com/openshift/api/config/v1
+# github.com/uccps-samples/api v3.9.1-0.20191002160657-d92789481b05+incompatible
+github.com/uccps-samples/api/config/v1
 # golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc
 golang.org/x/net/http/httpguts
 golang.org/x/net/http2

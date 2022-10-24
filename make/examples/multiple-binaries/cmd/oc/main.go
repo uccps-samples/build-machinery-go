@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/openshift/build-machinery-go/make/examples/multiple-binaries/pkg/version"
+	"github.com/uccps-samples/build-machinery-go/make/examples/multiple-binaries/pkg/version"
 )
 
 func main() {
